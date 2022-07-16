@@ -4,3 +4,14 @@
 いしまり氏のTwitterとGoogle Driveへのリンク
 https://twitter.com/texteater
 https://drive.google.com/drive/folders/1GJ8fJw9bV8wBBD37ZRFg8y1l2gc2X1VN
+
+
+
+【CLIP STUDIO PAINT での使い方】
+fbxファイルをドラッグ＆ドロップすると出てきます．
+
+ツールプロパティ[オブジェクト] から，
+・輪郭線幅
+・光源の影響を受ける
+・床面に影を表示する
+をオフにするといい感じになります．色は上にクリッピングで足すのがオススメです．
